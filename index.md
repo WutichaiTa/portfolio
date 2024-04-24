@@ -5,9 +5,9 @@
 ### Sales Analytics Project 
 
 [Project Sales Analytiscs](/sample_page)
-<img src="images/Untitled design (1).png?raw=true"/>
-<img src="images/Untitled design (2).png?raw=true"/>
-<img src="images/Untitled design (3).png?raw=true"/>
+<img src="images/Resize1.png?raw=true"/>
+<img src="images/Resize2.png?raw=true"/>
+<img src="images/Resize3.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
