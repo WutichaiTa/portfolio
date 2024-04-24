@@ -6,8 +6,8 @@
 
 [Project Sales Analytiscs](/sample_page)
 <img src="images/1 Dashboard.png.jpg?raw=true"/>
-<img src="images/1 Dashboard.png.jpg?raw=true"/>
-<img src="images/1 Dashboard.png.jpg?raw=true"/>
+<img src="images/2 Dashboard.png.jpg?raw=true"/>
+<img src="images/3 Dashboard.png.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
