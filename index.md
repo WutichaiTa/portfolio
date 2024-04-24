@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Sales Analytics Project 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project Sales Analytiscs](/sample_page)
+<img src="images/1 Dashboard.png.jpg?raw=true"/>
+<img src="images/1 Dashboard.png.jpg?raw=true"/>
+<img src="images/1 Dashboard.png.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
