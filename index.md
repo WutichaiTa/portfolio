@@ -2,12 +2,12 @@
 
 ---
 
-### Sales Analytics Project 
+### Project Sales Analytics
 
-[Project Sales Analytiscs](/sample_page)
-<img src="images/Resize1.png?raw=true"/>
-<img src="images/Resize2.png?raw=true"/>
-<img src="images/Resize3.png?raw=true"/>
+[My First Sales Analysis Project](/sample_page)
+<img src="images/1 Dashboard.png?raw=true"/>
+<img src="images/2 Dashboard.png?raw=true"/>
+<img src="images/3 Dashboard.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
